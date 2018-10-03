@@ -1,6 +1,6 @@
 Project címe
 
 1. fejezet - Áttekintés
-
+A project célja egy számológép készítése.
 
 2. fejezet - Jelenlegi helyzet
