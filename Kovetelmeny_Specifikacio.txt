@@ -2,6 +2,6 @@ Project címe
 
 1. fejezet - Áttekintés
 A project célja egy számológép készítése.
-
+Kacsa
 2. fejezet - Jelenlegi helyzet
 A felhasználói felület elkészült, a funkciókat kell megvalósítani.
