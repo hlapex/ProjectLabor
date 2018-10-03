@@ -4,3 +4,4 @@ Project címe
 
 
 2. fejezet - Jelenlegi helyzet
+A felhasználói felület elkészült, a funkciókat kell megvalósítani.
