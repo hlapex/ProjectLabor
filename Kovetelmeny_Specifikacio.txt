@@ -5,3 +5,7 @@ A project célja egy számológép készítése.
 
 2. fejezet - Jelenlegi helyzet
 A felhasználói felület elkészült, a funkciókat kell megvalósítani.
+
+
+
+3. fejezet-kódolás
