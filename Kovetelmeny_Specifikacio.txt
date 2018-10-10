@@ -1,7 +1,8 @@
-Project címe
+Amõba Játék
 
-1. fejezet - Áttekintés
-A project célja egy számológép készítése. Ezzel a mondattal kijavítom a konfliktust.
+1. fejezet - Jelenlegi helyzet:
+A program gyors kikapcsolódásra szolgálhat, akár 1-2 perc alatt a szabadidõnkben. Letisztult, áttekinthetõ
+felülettel rendelkezik.
 
 2. fejezet - Jelenlegi helyzet
 A felhasználói felület elkészült, a funkciókat kell megvalósítani. 
