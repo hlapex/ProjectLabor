@@ -6,4 +6,5 @@ A program célja, hogy gyors 3x3-as amõba játékokat tudjon játszani a felhasználó
 a játék segítségével.
 
 
-
+Vágyálom rendszer:
+------------------
