@@ -1,10 +1,12 @@
 Amõba Játék
 
-1. fejezet - Jelenlegi helyzet:
+Jelenlegi helyzet:
+------------------
 A program gyors kikapcsolódásra szolgálhat, akár 1-2 perc alatt a szabadidõnkben. Letisztult, áttekinthetõ
 felülettel rendelkezik.
 
-2. fejezet - Jelenlegi helyzet
+Vágyálom rendszer leírása:
+--------------------------
 A felhasználói felület elkészült, a funkciókat kell megvalósítani. 
 
 
