@@ -10,5 +10,12 @@ Vágyálom rendszer leírása:
 A felhasználói felület elkészült, a funkciókat kell megvalósítani. 
 
 
-
-3. fejezet-kódolás
+Követelmények:
+--------------
+-Egy 3x3-as amõba játék, ami esztétikus, átlátható  felhasználói felületet biztosít.
+-A játék számolja a lejátszott mérkõzések ereményeit.
+-A játékban legyen döntetlen meccs lehetõsége.
+-A játéktáblán kiemelõ színnel jelölje ki a nyertes kombinációt.
+-Legyen a programban játék újrakezdésére szolgáló gomb.
+-A játéktáblán az X és Y jeleket különbözõ színnel jelölje.
+-Az ablak gond nélkül átméretezhetõ legyen. (reszponzív)
