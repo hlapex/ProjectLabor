@@ -10,6 +10,7 @@ Vágyálom rendszer leírása:
 A felhasználói felület elkészült, a funkciókat kell megvalósítani. 
 
 
+
 Követelmények:
 --------------
 -Egy 3x3-as amõba játék, ami esztétikus, átlátható  felhasználói felületet biztosít.
@@ -17,5 +18,21 @@ Követelmények:
 -A játékban legyen döntetlen meccs lehetõsége.
 -A játéktáblán kiemelõ színnel jelölje ki a nyertes kombinációt.
 -Legyen a programban játék újrakezdésére szolgáló gomb.
--A játéktáblán az X és Y jeleket különbözõ színnel jelölje.
+-A játéktáblán az X és O jeleket különbözõ színnel jelölje.
 -Az ablak gond nélkül átméretezhetõ legyen. (reszponzív)
+
+
+
+Igényelt üzleti folyamatok modellje:
+------------------------------------
+-A program megnyitása után a játék azonnal elindul.
+-Az elsõ lépést mindig az X végzi.
+-A játéktábla elemeire kattintva lehet X és O elemeket beleírni.
+-A játék addig zajlik, amíg a játéktábla be nem telik és döntetlen lesz, vagy 3 ugyan olyan szimbólum vízszintesen, függõlegesen vagy átlósan ki nem gyûlik.
+-A játék számlálja a X és O gyõzelmeit.
+-Új játékot az új játék gombra kattintva lehet indítani.
+-A játék addig megy, amig a programot be nem zárják.
+
+
+
+
