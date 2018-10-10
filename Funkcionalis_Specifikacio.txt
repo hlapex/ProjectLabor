@@ -1,0 +1,9 @@
+Amõba Játék
+
+A rendszer céljai és nem céljai
+-------------------------------
+A program célja, hogy gyors 3x3-as amõba játékokat tudjon játszani a felhasználó. Pár perc alatt ki tudjon kapcsolódni
+a játék segítségével.
+
+
+
