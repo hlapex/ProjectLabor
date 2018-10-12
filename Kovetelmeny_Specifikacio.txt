@@ -42,5 +42,13 @@ Igényelt üzleti folyamatok modellje:
 -A játék addig megy, amig a programot be nem zárják.
 
 
+Fogalomszótár:
+--------------
+-1 kör/játszma: Ameddig egy játékos ki nem gyüjti 3 szimbólumiot vízszintes, vagy függõlegesen, vagy átlósan.
+-eredmény: melyik játékosnak mennyi pontja van
+-új játék: a játékfelület újra alaphejzetbe áll de az eredményjelzõ megmarad.
 
+
+
+-
 
