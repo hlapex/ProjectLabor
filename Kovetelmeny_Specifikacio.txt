@@ -9,6 +9,14 @@ Vágyálom rendszer leírása:
 --------------------------
 A felhasználói felület elkészült, a funkciókat kell megvalósítani. 
 
+A rendszerre vonatkozó pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása.
+-------------------------------------------
+-Nem pályázatrakészült a program hanem órai feladatra.
+-Mindent megbeszélünk és csak akkor kerülnek bele a programba ha mindenkinek megfelel.
+-A csapat minden tagjának dolgoznia kell rajta.
+-A feladatokat Javab-an Trello-ban illetve TortoiseGit-ben oldjuk meg.
+-Hetetnte legalább háromszor foglalkozzunk vele. 
+
 
 
 Követelmények:
