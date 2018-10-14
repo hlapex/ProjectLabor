@@ -8,3 +8,4 @@ a játék segítségével.
 
 Vágyálom rendszer:
 ------------------
+A program gyors kikapcsolódásra szolgálhat, akár 1-2 perc alatt a szabadidõnkben. Letisztult, áttekinthetõ felülettel rendelkezik.

@@ -7,7 +7,8 @@ felülettel rendelkezik.
 
 Vágyálom rendszer leírása:
 --------------------------
-A felhasználói felület elkészült, a funkciókat kell megvalósítani. 
+A felhasználói felület elkészült, a funkciókat kell megvalósítani.
+
 
 A rendszerre vonatkozó pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása.
 -------------------------------------------
