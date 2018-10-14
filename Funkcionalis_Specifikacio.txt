@@ -8,4 +8,16 @@ a játék segítségével.
 
 Vágyálom rendszer:
 ------------------
-A program gyors kikapcsolódásra szolgálhat, akár 1-2 perc alatt a szabadidõnkben. Letisztult, áttekinthetõ felülettel rendelkezik.
+A program gyors kikapcsolódásra szolgálhat, akár 1-2 perc alatt a szabadidõnkben. Letisztult, áttekinthetõ
+felülettel rendelkezik.
+
+
+Igényelt üzleti folyamatok modellje
+-----------------------------------
+-A program megnyitása után a játék azonnal elindul.
+-Az elsõ lépést mindig az X végzi.
+-A játéktábla elemeire kattintva lehet X és O elemeket beleírni.
+-A játék addig zajlik, amíg a játéktábla be nem telik és döntetlen lesz, vagy 3 ugyan olyan szimbólum vízszintesen, függõlegesen vagy átlósan ki nem gyûlik.
+-A játék számlálja a X és O gyõzelmeit.
+-Új játékot az új játék gombra kattintva lehet indítani.
+-A játék addig megy, amig a programot be nem zárják.
