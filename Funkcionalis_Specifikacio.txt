@@ -21,3 +21,13 @@ Igényelt üzleti folyamatok modellje
 -A játék számlálja a X és O gyõzelmeit.
 -Új játékot az új játék gombra kattintva lehet indítani.
 -A játék addig megy, amig a programot be nem zárják.
+
+
+Jelenlegi helyzet leírása
+-----------------------
+Jelenleg a projekt használható állapotban van.
+A következõ fejlesztések során az észlelt hibák javítva lesznek.
+A változó kezdetû jatekmenet.
+Mondhatni  béta verzióban van.
+
+
